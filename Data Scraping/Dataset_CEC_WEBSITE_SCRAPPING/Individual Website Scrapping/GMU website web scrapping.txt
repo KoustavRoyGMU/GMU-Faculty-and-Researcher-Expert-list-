@@ -1,0 +1,36 @@
+GMU website web scrapping 03052023
+GMU CS website web scrapping 03072023(diffrent format of the website)
+
+Extracted
+-Volgenau School of Engineering
+URL: https://volgenau.gmu.edu/why-choose-volgenau/meet-our-faculty
+-Statistics
+URL: https://statistics.gmu.edu/people/meet-our-faculty
+-Information Sciences and Technology
+URL: https://ist.gmu.edu/people/faculty
+-Civil Eng and Infrastructure
+URL: https://civil.gmu.edu/people/meet-our-faculty
+-Electrical and Computer Engineering
+URL: https://ece.gmu.edu/people/faculty
+-Systems Engineering and Op Research
+URL: https://seor.gmu.edu/people/meet-our-faculty
+-Bioengineering BENG
+URL: https://bioengineering.gmu.edu/people/primary-faculty
+-Mechanical Engineering Dept
+URL: https://mechanical.gmu.edu/people/meet-our-faculty
+-Cyber Security Engineering
+URL: https://cybersecurity.gmu.edu/people/meet-our-faculty
+-Computer Science
+URL: https://cs.gmu.edu/directory/by-category/faculty/
+
+
+Exceptions
+
+-CEC Academic Administration
+-CEC Dean Academic Activities
+-Data Analytics Engineering(only 4members)
+-C4I Center
+-Learning Agent Center
+-Ctr for Assured Res and Eng
+-Rapid Prototyping Research Center
+-CEC Dean Office Research
