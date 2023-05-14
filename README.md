@@ -21,9 +21,10 @@ This project is based on the team project of the previous team, Demystifiers, wh
 
 **Project Goals:**  
 The ultimate goal of the project was to help scholars find appropriate and effective multidisciplinary collaboration partners for their specific disciplines and research topics. The team's goals are broken down into three main elements:
-The information of each scholar had to be as accurate as possible to reflect the number of faculty members in the CEC department.
-All the information had to be accessible in a cloud environment, and how to effectively utilize the graph database had to be tailored to the user's needs to provide effective results. Therefore, our team provided a seamless user experience through Bloom, NeoDash, and Data Science tools provided by Aura DB, which can be utilized in various ways to meet user needs.
-Provide a user experience for adding and modifying updated information through a web experience. However, the free Aura DB version has limited the use of REST APIs and connectable endpoints, so a service that allows scholars to update via the web remains a future work. 
+- 1. The information of each scholar had to be as accurate as possible to reflect the number of faculty members in the CEC department.
+- 2. All the information had to be accessible in a cloud environment, and how to effectively utilize the graph database had to be tailored to the user's needs to provide effective results. Therefore, our team provided a seamless user experience through Bloom, NeoDash, and Data Science tools provided by Aura DB, which can be utilized in various ways to meet user needs.
+- 3.Provide a user experience for adding and modifying updated information through a web experience. However, the free Aura DB version has limited the use of REST APIs and connectable endpoints, so a service that allows scholars to update via the web remains a future work. 
+ 
 
 
 
