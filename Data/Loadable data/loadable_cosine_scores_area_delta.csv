@@ -1,0 +1,783 @@
+,Name,similar_area,area_score
+0,giacomo francisci,artificial intelligence,0.0
+0,giacomo francisci,autonomous systems,0.0
+0,giacomo francisci,computer engineering,0.0
+0,giacomo francisci,computer networks communications,0.0
+0,giacomo francisci,data analytics,0.0
+0,giacomo francisci,electrical engineering,0.0
+0,giacomo francisci,human centered computing,0.0
+1,david kepplinger,autonomous systems,0.1658902332014283
+1,david kepplinger,biomedical imaging devices,0.160675602081711
+1,david kepplinger,design results clinical studies,0.1514864104042789
+1,david kepplinger,computational biomedicine,0.1094819682407245
+1,david kepplinger,software engineering,0.0884747910407617
+1,david kepplinger,multiscale transport engineering,0.0811018917873649
+1,david kepplinger,statistical modeling,0.0774154421606665
+1,david kepplinger,bioinformatics biostatistics computational biology,0.0755497356519374
+1,david kepplinger,geotechnical engineering,0.0716727723851245
+1,david kepplinger,electrical engineering,0.0652019862276467
+2,ilhan izmirli,autonomous systems,0.1827985564294135
+2,ilhan izmirli,biomedical imaging devices,0.1517592216447311
+2,ilhan izmirli,applied probability statistics,0.1516557141494713
+2,ilhan izmirli,design results clinical studies,0.1466569654678616
+2,ilhan izmirli,multiscale transport engineering,0.1462388451435308
+2,ilhan izmirli,computational biomedicine,0.10340647907388
+2,ilhan izmirli,visual computing,0.0799201198003493
+2,ilhan izmirli,bioinformatics biostatistics computational biology,0.0799201198003493
+2,ilhan izmirli,software engineering,0.0731194225717654
+2,ilhan izmirli,geotechnical engineering,0.0710802026557383
+3,jason goldberg,artificial intelligence,0.0
+3,jason goldberg,autonomous systems,0.0
+3,jason goldberg,computer engineering,0.0
+3,jason goldberg,computer networks communications,0.0
+3,jason goldberg,data analytics,0.0
+3,jason goldberg,electrical engineering,0.0
+3,jason goldberg,human centered computing,0.0
+4,kenneth pasiah,data analytics,0.2015170887439513
+4,kenneth pasiah,applied probability statistics,0.1718543507124302
+4,kenneth pasiah,autonomous systems,0.1481086953617828
+4,kenneth pasiah,design results clinical studies,0.1317358420292073
+4,kenneth pasiah,optimization techniques,0.080786561106427
+4,kenneth pasiah,theory computation,0.0742801844076204
+4,kenneth pasiah,visual computing,0.073583636818555
+4,kenneth pasiah,multiscale transport engineering,0.0718102765390462
+4,kenneth pasiah,biomedical imaging devices,0.0698634804181292
+4,kenneth pasiah,stochastic modeling,0.0685575058158106
+5,saad karamat,artificial intelligence,0.0
+5,saad karamat,autonomous systems,0.0
+5,saad karamat,computer engineering,0.0
+5,saad karamat,computer networks communications,0.0
+5,saad karamat,data analytics,0.0
+5,saad karamat,electrical engineering,0.0
+5,saad karamat,human centered computing,0.0
+6,ana gonzalez hernandez,artificial intelligence,0.0
+6,ana gonzalez hernandez,autonomous systems,0.0
+6,ana gonzalez hernandez,computer engineering,0.0
+6,ana gonzalez hernandez,computer networks communications,0.0
+6,ana gonzalez hernandez,data analytics,0.0
+6,ana gonzalez hernandez,electrical engineering,0.0
+6,ana gonzalez hernandez,human centered computing,0.0
+7,jana kosecka,artificial intelligence,0.0
+7,jana kosecka,autonomous systems,0.0
+7,jana kosecka,computer engineering,0.0
+7,jana kosecka,computer networks communications,0.0
+7,jana kosecka,data analytics,0.0
+7,jana kosecka,electrical engineering,0.0
+7,jana kosecka,human centered computing,0.0
+8,robert simon,data analytics,0.1507556722888818
+8,robert simon,autonomous systems,0.120873444603807
+8,robert simon,computational biomedicine,0.0854704323447284
+8,robert simon,biomedical imaging devices,0.083624201000709
+8,robert simon,visual computing,0.082572282384477
+8,robert simon,multiscale transport engineering,0.080582296402538
+8,robert simon,design results clinical studies,0.0689864461987262
+8,robert simon,education,0.0609144903873172
+8,robert simon,software engineering,0.0604367223019035
+8,robert simon,human centered computing,0.0583874208121142
+9,sean luke,autonomous systems,0.1336306209562121
+9,sean luke,biomedical imaging devices,0.0832050294337843
+9,sean luke,multiscale transport engineering,0.0712696645099798
+9,sean luke,education,0.0606091526731326
+9,sean luke,visual computing,0.0547722557505166
+9,sean luke,design results clinical studies,0.052297636036849
+9,sean luke,computational biomedicine,0.0377964473009227
+9,sean luke,environmental water resources engineering,0.0372677996249964
+9,sean luke,bioinformatics biostatistics computational biology,0.036514837167011
+9,sean luke,computer networks communications,0.0344123600805842
+10,zoran duric,autonomous systems,0.1853123291652753
+10,zoran duric,biomedical imaging devices,0.1538461538461538
+10,zoran duric,computational biomedicine,0.1310356045902398
+10,zoran duric,software engineering,0.0926561645826376
+10,zoran duric,human centered computing,0.0895143592549291
+10,zoran duric,multiscale transport engineering,0.0864790869437951
+10,zoran duric,simulation,0.0786213627541438
+10,zoran duric,visual computing,0.0759554525312749
+10,zoran duric,bioinformatics biostatistics computational biology,0.0759554525312749
+10,zoran duric,applied probability statistics,0.0739140494986353
+11,erion plaku,artificial intelligence,0.0
+11,erion plaku,autonomous systems,0.0
+11,erion plaku,computer engineering,0.0
+11,erion plaku,computer networks communications,0.0
+11,erion plaku,data analytics,0.0
+11,erion plaku,electrical engineering,0.0
+11,erion plaku,human centered computing,0.0
+12,fang yi yu,artificial intelligence,0.0
+12,fang yi yu,autonomous systems,0.0
+12,fang yi yu,computer engineering,0.0
+12,fang yi yu,computer networks communications,0.0
+12,fang yi yu,data analytics,0.0
+12,fang yi yu,electrical engineering,0.0
+12,fang yi yu,human centered computing,0.0
+13,gregory stein,design results clinical studies,0.1548339762084325
+13,gregory stein,autonomous systems,0.1033484778657603
+13,gregory stein,biomedical imaging devices,0.1005466725321972
+13,gregory stein,applied probability statistics,0.0979017331960305
+13,gregory stein,multiscale transport engineering,0.0904299181325403
+13,gregory stein,multiscale tribology contact mechanics,0.073241349324071
+13,gregory stein,data analytics,0.0725052366784247
+13,gregory stein,systems engineering,0.0568777871786078
+13,gregory stein,human centered computing,0.0499220576299317
+13,gregory stein,transportation,0.0470476101335854
+14,haikun huang,artificial intelligence,0.0
+14,haikun huang,autonomous systems,0.0
+14,haikun huang,computer engineering,0.0
+14,haikun huang,computer networks communications,0.0
+14,haikun huang,data analytics,0.0
+14,haikun huang,electrical engineering,0.0
+14,haikun huang,human centered computing,0.0
+15,jyh ming lien,data analytics,0.1270001270001905
+15,jyh ming lien,computational fluid dynamics,0.1236128465145493
+15,jyh ming lien,autonomous systems,0.1187977408278728
+15,jyh ming lien,multiscale transport engineering,0.1018266349953195
+15,jyh ming lien,structural engineering,0.0945954476627456
+15,jyh ming lien,systems engineering,0.0747203222080077
+15,jyh ming lien,software engineering,0.067884423330213
+15,jyh ming lien,design results clinical studies,0.0664180641848957
+15,jyh ming lien,construction engineering management,0.0654953146327807
+15,jyh ming lien,multiscale tribology contact mechanics,0.0641447507238481
+16,lannan lisa luo,artificial intelligence,0.0
+16,lannan lisa luo,autonomous systems,0.0
+16,lannan lisa luo,computer engineering,0.0
+16,lannan lisa luo,computer networks communications,0.0
+16,lannan lisa luo,data analytics,0.0
+16,lannan lisa luo,electrical engineering,0.0
+16,lannan lisa luo,human centered computing,0.0
+17,lap fai craig yu,computational biomedicine,0.1636634176769943
+17,lap fai craig yu,simulation,0.1636634176769943
+17,lap fai craig yu,biomedical imaging devices,0.1601281538050871
+17,lap fai craig yu,visual computing,0.1581138830084189
+17,lap fai craig yu,bioinformatics biostatistics computational biology,0.1581138830084189
+17,lap fai craig yu,software engineering,0.1543033499620919
+17,lap fai craig yu,human centered computing,0.1490711984999859
+17,lap fai craig yu,multiscale tribology contact mechanics,0.1458029608799511
+17,lap fai craig yu,computational fluid dynamics,0.1404878717372541
+17,lap fai craig yu,autonomous systems,0.1157275124715689
+18,maha shamseddine,artificial intelligence,0.0
+18,maha shamseddine,autonomous systems,0.0
+18,maha shamseddine,computer engineering,0.0
+18,maha shamseddine,computer networks communications,0.0
+18,maha shamseddine,data analytics,0.0
+18,maha shamseddine,electrical engineering,0.0
+18,maha shamseddine,human centered computing,0.0
+19,sara lynn gopalkrishna,education,0.0925973165839526
+19,sara lynn gopalkrishna,autonomous systems,0.0890870806374748
+19,sara lynn gopalkrishna,design results clinical studies,0.0762673858870715
+19,sara lynn gopalkrishna,multiscale transport engineering,0.0668153104781061
+19,sara lynn gopalkrishna,biomedical imaging devices,0.057781270440128
+19,sara lynn gopalkrishna,computational biomedicine,0.0472455591261534
+19,sara lynn gopalkrishna,software engineering,0.0445435403187374
+19,sara lynn gopalkrishna,experimental understanding disease mechanisms,0.0437688109532408
+19,sara lynn gopalkrishna,energy,0.0372677996249965
+19,sara lynn gopalkrishna,simulation,0.0314970394174356
+20,seyed mohammad sina ahmadi,artificial intelligence,0.0
+20,seyed mohammad sina ahmadi,autonomous systems,0.0
+20,seyed mohammad sina ahmadi,computer engineering,0.0
+20,seyed mohammad sina ahmadi,computer networks communications,0.0
+20,seyed mohammad sina ahmadi,data analytics,0.0
+20,seyed mohammad sina ahmadi,electrical engineering,0.0
+20,seyed mohammad sina ahmadi,human centered computing,0.0
+21,wassim itani,artificial intelligence,0.0
+21,wassim itani,autonomous systems,0.0
+21,wassim itani,computer engineering,0.0
+21,wassim itani,computer networks communications,0.0
+21,wassim itani,data analytics,0.0
+21,wassim itani,electrical engineering,0.0
+21,wassim itani,human centered computing,0.0
+22,hoda hassan,computational biomedicine,0.1146136510122505
+22,hoda hassan,data analytics,0.1137147065368355
+22,hoda hassan,design results clinical studies,0.0991168389083421
+22,hoda hassan,visual computing,0.0968863931626966
+22,hoda hassan,software engineering,0.0911746010782246
+22,hoda hassan,multiscale transport engineering,0.0877977640012533
+22,hoda hassan,simulation,0.0716335318826566
+22,hoda hassan,bioinformatics biostatistics computational biology,0.0692045665447833
+22,hoda hassan,human centered computing,0.0685090256100487
+22,hoda hassan,education,0.0536056267418897
+23,humaira akhtari,artificial intelligence,0.0
+23,humaira akhtari,autonomous systems,0.0
+23,humaira akhtari,computer engineering,0.0
+23,humaira akhtari,computer networks communications,0.0
+23,humaira akhtari,data analytics,0.0
+23,humaira akhtari,electrical engineering,0.0
+23,humaira akhtari,human centered computing,0.0
+24,nora mcdonald,autonomous systems,0.1442633768184378
+24,nora mcdonald,artificial intelligence,0.1238859226165021
+24,nora mcdonald,data analytics,0.1199520287808134
+24,nora mcdonald,biomedical imaging devices,0.1164404743290802
+24,nora mcdonald,computational biomedicine,0.1133440133613195
+24,nora mcdonald,multiscale transport engineering,0.0961755845456252
+24,nora mcdonald,visual computing,0.0876005759756805
+24,nora mcdonald,bioinformatics biostatistics computational biology,0.0876005759756805
+24,nora mcdonald,design results clinical studies,0.070573584859432
+24,nora mcdonald,computer networks communications,0.0687972067800326
+25,omoche cheche agada,data analytics,0.1920238431606421
+25,omoche cheche agada,computational biomedicine,0.1451563813708372
+25,omoche cheche agada,artificial intelligence,0.1189928234617459
+25,omoche cheche agada,biomedical imaging devices,0.1171672298292439
+25,omoche cheche agada,software engineering,0.1129051677598016
+25,omoche cheche agada,visual computing,0.0981640711127233
+25,omoche cheche agada,multiscale transport engineering,0.0889555867198436
+25,omoche cheche agada,computer networks communications,0.0881065817986887
+25,omoche cheche agada,simulation,0.0870938288225023
+25,omoche cheche agada,design results clinical studies,0.0853603410101041
+26,sungsoo hong,artificial intelligence,0.0
+26,sungsoo hong,autonomous systems,0.0
+26,sungsoo hong,computer engineering,0.0
+26,sungsoo hong,computer networks communications,0.0
+26,sungsoo hong,data analytics,0.0
+26,sungsoo hong,electrical engineering,0.0
+26,sungsoo hong,human centered computing,0.0
+27,ye wang,artificial intelligence,0.0
+27,ye wang,autonomous systems,0.0
+27,ye wang,computer engineering,0.0
+27,ye wang,computer networks communications,0.0
+27,ye wang,data analytics,0.0
+27,ye wang,electrical engineering,0.0
+27,ye wang,human centered computing,0.0
+28,aiyoub abbaspour,artificial intelligence,0.0
+28,aiyoub abbaspour,autonomous systems,0.0
+28,aiyoub abbaspour,computer engineering,0.0
+28,aiyoub abbaspour,computer networks communications,0.0
+28,aiyoub abbaspour,data analytics,0.0
+28,aiyoub abbaspour,electrical engineering,0.0
+28,aiyoub abbaspour,human centered computing,0.0
+29,andre de souza de lima,artificial intelligence,0.0
+29,andre de souza de lima,autonomous systems,0.0
+29,andre de souza de lima,computer engineering,0.0
+29,andre de souza de lima,computer networks communications,0.0
+29,andre de souza de lima,data analytics,0.0
+29,andre de souza de lima,electrical engineering,0.0
+29,andre de souza de lima,human centered computing,0.0
+30,david binning,autonomous systems,0.1836577216731132
+30,david binning,environmental water resources engineering,0.1566719973134739
+30,david binning,biomedical imaging devices,0.1457457720325343
+30,david binning,multiscale transport engineering,0.1224384811154088
+30,david binning,design results clinical studies,0.1162703652377652
+30,david binning,computer networks communications,0.06491506980871
+30,david binning,electrical engineering,0.0636929755298482
+30,david binning,theory computation,0.0595998783210126
+30,david binning,visual computing,0.0590409923693396
+30,david binning,geotechnical engineering,0.058345003501167
+31,david lattanzi,autonomous systems,0.2408018973597812
+31,david lattanzi,design results clinical studies,0.1732355729012632
+31,david lattanzi,applied probability statistics,0.1694942305145882
+31,david lattanzi,biomedical imaging devices,0.1322957322085173
+31,david lattanzi,manufacturing,0.0936914611244826
+31,david lattanzi,visual computing,0.0774112999716183
+31,david lattanzi,systems engineering,0.0727589406185305
+31,david lattanzi,bioinformatics biostatistics computational biology,0.0580584749787137
+31,david lattanzi,human centered computing,0.0547380551503973
+31,david lattanzi,multiscale transport engineering,0.0472160583058394
+32,wenying ji,autonomous systems,0.1511857892036908
+32,wenying ji,multiscale transport engineering,0.1007905261357939
+32,wenying ji,finance,0.0970142500145331
+32,wenying ji,biomedical imaging devices,0.0784464540552736
+32,wenying ji,design results clinical studies,0.0739600261633638
+32,wenying ji,visual computing,0.0688530372659096
+32,wenying ji,applied probability statistics,0.0603022689155527
+32,wenying ji,environmental water resources engineering,0.0562182695141045
+32,wenying ji,structural engineering,0.0546192020248609
+32,wenying ji,human centered computing,0.0486864495560147
+33,kirin furst,artificial intelligence,0.0
+33,kirin furst,autonomous systems,0.0
+33,kirin furst,computer engineering,0.0
+33,kirin furst,computer networks communications,0.0
+33,kirin furst,data analytics,0.0
+33,kirin furst,electrical engineering,0.0
+33,kirin furst,human centered computing,0.0
+34,shanjiang zhu,autonomous systems,0.1749835523190866
+34,shanjiang zhu,design results clinical studies,0.1129944844162503
+34,shanjiang zhu,biomedical imaging devices,0.1089534084101022
+34,shanjiang zhu,multiscale transport engineering,0.1026570173605308
+34,shanjiang zhu,transportation,0.1019625483869163
+34,shanjiang zhu,computational biomedicine,0.0890870806374748
+34,shanjiang zhu,human centered computing,0.0676200688277982
+34,shanjiang zhu,visual computing,0.0669404528974121
+34,shanjiang zhu,civilian government ngos,0.0646571526625162
+34,shanjiang zhu,education,0.0582010582010582
+35,ting zhang,artificial intelligence,0.0
+35,ting zhang,autonomous systems,0.0
+35,ting zhang,computer engineering,0.0
+35,ting zhang,computer networks communications,0.0
+35,ting zhang,data analytics,0.0
+35,ting zhang,electrical engineering,0.0
+35,ting zhang,human centered computing,0.0
+36,yang shen,artificial intelligence,0.0
+36,yang shen,autonomous systems,0.0
+36,yang shen,computer engineering,0.0
+36,yang shen,computer networks communications,0.0
+36,yang shen,data analytics,0.0
+36,yang shen,electrical engineering,0.0
+36,yang shen,human centered computing,0.0
+37,nathalia peixoto,multiscale transport engineering,0.0950262193466397
+37,nathalia peixoto,computer networks communications,0.0764719112901872
+37,nathalia peixoto,human centered computing,0.0688530372659096
+37,nathalia peixoto,education,0.0673435029701473
+37,nathalia peixoto,visual computing,0.0608580619450184
+37,nathalia peixoto,multiscale tribology contact mechanics,0.0606091526731326
+37,nathalia peixoto,design results clinical studies,0.0479394997004449
+37,nathalia peixoto,energy,0.0447213595499957
+37,nathalia peixoto,experimental understanding disease mechanisms,0.0437688109532408
+37,nathalia peixoto,applied probability statistics,0.035533452725935
+38,robert elder,artificial intelligence,0.0
+38,robert elder,autonomous systems,0.0
+38,robert elder,computer engineering,0.0
+38,robert elder,computer networks communications,0.0
+38,robert elder,data analytics,0.0
+38,robert elder,electrical engineering,0.0
+38,robert elder,human centered computing,0.0
+39,filipe veiga,autonomous systems,0.16721186493883
+39,filipe veiga,design results clinical studies,0.1329249607559881
+39,filipe veiga,visual computing,0.0856705873756238
+39,filipe veiga,multiscale tribology contact mechanics,0.0790001805156187
+39,filipe veiga,multiscale transport engineering,0.0766387714302971
+39,filipe veiga,biomedical imaging devices,0.0759167293819158
+39,filipe veiga,human centered computing,0.0605782532815382
+39,filipe veiga,civilian government ngos,0.060337384521333
+39,filipe veiga,computer engineering,0.0595931753830452
+39,filipe veiga,national security,0.055300126360933
+40,jill nelson,data analytics,0.1267731382092774
+40,jill nelson,autonomous systems,0.124232336649472
+40,jill nelson,multiscale tribology contact mechanics,0.0853734720953138
+40,jill nelson,biomedical imaging devices,0.0820412654142367
+40,jill nelson,multiscale transport engineering,0.0752923252421042
+40,jill nelson,design results clinical studies,0.0718243006142778
+40,jill nelson,visual computing,0.0617213399848367
+40,jill nelson,human centered computing,0.054554472558998
+40,jill nelson,computational biomedicine,0.0479157423749954
+40,jill nelson,bioinformatics biostatistics computational biology,0.0462910049886275
+41,liang zhang,artificial intelligence,0.0
+41,liang zhang,autonomous systems,0.0
+41,liang zhang,computer engineering,0.0
+41,liang zhang,computer networks communications,0.0
+41,liang zhang,data analytics,0.0
+41,liang zhang,electrical engineering,0.0
+41,liang zhang,human centered computing,0.0
+42,maryam parsa,multiscale transport engineering,0.0994305075653428
+42,maryam parsa,autonomous systems,0.0877328007929495
+42,maryam parsa,design results clinical studies,0.0858377004374341
+42,maryam parsa,human centered computing,0.0762821441573411
+42,maryam parsa,multiscale tribology contact mechanics,0.0729517399981275
+42,maryam parsa,computer networks communications,0.0677784637269875
+42,maryam parsa,data analytics,0.0656532164298612
+42,maryam parsa,biomedical imaging devices,0.0637312410638075
+42,maryam parsa,experimental understanding disease mechanisms,0.0603448275862068
+42,maryam parsa,visual computing,0.059932912685673
+43,ping xu,artificial intelligence,0.0
+43,ping xu,autonomous systems,0.0
+43,ping xu,computer engineering,0.0
+43,ping xu,computer networks communications,0.0
+43,ping xu,data analytics,0.0
+43,ping xu,electrical engineering,0.0
+43,ping xu,human centered computing,0.0
+44,sai manoj pudukotai dinakarrao,data analytics,0.1718082427858355
+44,sai manoj pudukotai dinakarrao,design results clinical studies,0.1636583615773413
+44,sai manoj pudukotai dinakarrao,biomedical imaging devices,0.1429530989796222
+44,sai manoj pudukotai dinakarrao,autonomous systems,0.1180740454398867
+44,sai manoj pudukotai dinakarrao,multiscale tribology contact mechanics,0.1140488078108166
+44,sai manoj pudukotai dinakarrao,artificial intelligence,0.1013958800839164
+44,sai manoj pudukotai dinakarrao,multiscale transport engineering,0.0874622558813975
+44,sai manoj pudukotai dinakarrao,computer networks communications,0.0844618159365516
+44,sai manoj pudukotai dinakarrao,education,0.0644623696322007
+44,sai manoj pudukotai dinakarrao,visual computing,0.0627355000927509
+45,zhi tian,autonomous systems,0.1198492955739329
+45,zhi tian,design results clinical studies,0.1172604526258266
+45,zhi tian,multiscale tribology contact mechanics,0.1159648661558493
+45,zhi tian,biomedical imaging devices,0.0994987934600711
+45,zhi tian,multiscale transport engineering,0.0990754176744511
+45,zhi tian,computer networks communications,0.0987629232924629
+45,zhi tian,computational biomedicine,0.0745766996662677
+45,zhi tian,applied probability statistics,0.0688367978519101
+45,zhi tian,computer engineering,0.068341562659177
+45,zhi tian,software engineering,0.062321633698445
+46,kuochu chang,data analytics,0.171685708586216
+46,kuochu chang,autonomous systems,0.1274581547093518
+46,kuochu chang,design results clinical studies,0.0922816660871408
+46,kuochu chang,biomedical imaging devices,0.0899433131172948
+46,kuochu chang,computer networks communications,0.0787748056607883
+46,kuochu chang,applied probability statistics,0.0772740894570483
+46,kuochu chang,multiscale transport engineering,0.0747754507628197
+46,kuochu chang,multiscale tribology contact mechanics,0.0578095851305384
+46,kuochu chang,visual computing,0.0557251172704763
+46,kuochu chang,software engineering,0.0509832618837407
+47,paulo costa,design results clinical studies,0.1225386353089372
+47,paulo costa,autonomous systems,0.1178767138581478
+47,paulo costa,multiscale transport engineering,0.1178767138581478
+47,paulo costa,biomedical imaging devices,0.0917448352774886
+47,paulo costa,data analytics,0.0826976769629956
+47,paulo costa,human centered computing,0.0640573451295446
+47,paulo costa,computer networks communications,0.0569164447495689
+47,paulo costa,construction engineering management,0.05686409402392
+47,paulo costa,systems engineering,0.0540611626362958
+47,paulo costa,applied probability statistics,0.0528936119083666
+48,shima mohebbi,autonomous systems,0.1473458923226847
+48,shima mohebbi,design results clinical studies,0.1225386353089372
+48,shima mohebbi,biomedical imaging devices,0.1223264470366515
+48,shima mohebbi,computer networks communications,0.1201569389157566
+48,shima mohebbi,multiscale transport engineering,0.1178767138581478
+48,shima mohebbi,human centered computing,0.1067622418825743
+48,shima mohebbi,theory computation,0.0975448580871188
+48,shima mohebbi,visual computing,0.0905907662518161
+48,shima mohebbi,environmental water resources engineering,0.0904041733322819
+48,shima mohebbi,applied probability statistics,0.0881560198472777
+49,shou matsumoto,artificial intelligence,0.0
+49,shou matsumoto,autonomous systems,0.0
+49,shou matsumoto,computer engineering,0.0
+49,shou matsumoto,computer networks communications,0.0
+49,shou matsumoto,data analytics,0.0
+49,shou matsumoto,electrical engineering,0.0
+49,shou matsumoto,human centered computing,0.0
+50,ahmed bashatah,artificial intelligence,0.0
+50,ahmed bashatah,autonomous systems,0.0
+50,ahmed bashatah,computer engineering,0.0
+50,ahmed bashatah,computer networks communications,0.0
+50,ahmed bashatah,data analytics,0.0
+50,ahmed bashatah,electrical engineering,0.0
+50,ahmed bashatah,human centered computing,0.0
+51,bengt ljungquist,artificial intelligence,0.0
+51,bengt ljungquist,autonomous systems,0.0
+51,bengt ljungquist,computer engineering,0.0
+51,bengt ljungquist,computer networks communications,0.0
+51,bengt ljungquist,data analytics,0.0
+51,bengt ljungquist,electrical engineering,0.0
+51,bengt ljungquist,human centered computing,0.0
+52,carolina tecuatl tolama,artificial intelligence,0.0
+52,carolina tecuatl tolama,autonomous systems,0.0
+52,carolina tecuatl tolama,computer engineering,0.0
+52,carolina tecuatl tolama,computer networks communications,0.0
+52,carolina tecuatl tolama,data analytics,0.0
+52,carolina tecuatl tolama,electrical engineering,0.0
+52,carolina tecuatl tolama,human centered computing,0.0
+53,david philippe nicolas lemonnier,artificial intelligence,0.0
+53,david philippe nicolas lemonnier,autonomous systems,0.0
+53,david philippe nicolas lemonnier,computer engineering,0.0
+53,david philippe nicolas lemonnier,computer networks communications,0.0
+53,david philippe nicolas lemonnier,data analytics,0.0
+53,david philippe nicolas lemonnier,electrical engineering,0.0
+53,david philippe nicolas lemonnier,human centered computing,0.0
+54,diek wheeler,artificial intelligence,0.0
+54,diek wheeler,autonomous systems,0.0
+54,diek wheeler,computer engineering,0.0
+54,diek wheeler,computer networks communications,0.0
+54,diek wheeler,data analytics,0.0
+54,diek wheeler,electrical engineering,0.0
+54,diek wheeler,human centered computing,0.0
+55,jair feldens ferrari,artificial intelligence,0.0
+55,jair feldens ferrari,autonomous systems,0.0
+55,jair feldens ferrari,computer engineering,0.0
+55,jair feldens ferrari,computer networks communications,0.0
+55,jair feldens ferrari,data analytics,0.0
+55,jair feldens ferrari,electrical engineering,0.0
+55,jair feldens ferrari,human centered computing,0.0
+56,ketan mehta,artificial intelligence,0.0
+56,ketan mehta,autonomous systems,0.0
+56,ketan mehta,computer engineering,0.0
+56,ketan mehta,computer networks communications,0.0
+56,ketan mehta,data analytics,0.0
+56,ketan mehta,electrical engineering,0.0
+56,ketan mehta,human centered computing,0.0
+57,michael girgis,artificial intelligence,0.0
+57,michael girgis,autonomous systems,0.0
+57,michael girgis,computer engineering,0.0
+57,michael girgis,computer networks communications,0.0
+57,michael girgis,data analytics,0.0
+57,michael girgis,electrical engineering,0.0
+57,michael girgis,human centered computing,0.0
+58,nabilah ibnat baby,artificial intelligence,0.0
+58,nabilah ibnat baby,autonomous systems,0.0
+58,nabilah ibnat baby,computer engineering,0.0
+58,nabilah ibnat baby,computer networks communications,0.0
+58,nabilah ibnat baby,data analytics,0.0
+58,nabilah ibnat baby,electrical engineering,0.0
+58,nabilah ibnat baby,human centered computing,0.0
+59,quentin sanders,autonomous systems,0.1695597163640292
+59,quentin sanders,biomedical imaging devices,0.113856751051561
+59,quentin sanders,design results clinical studies,0.1073451743365698
+59,quentin sanders,visual computing,0.0817632971986956
+59,quentin sanders,education,0.0753971162813227
+59,quentin sanders,multiscale transport engineering,0.0664940064172663
+59,quentin sanders,human centered computing,0.0578153819013687
+59,quentin sanders,multiscale tribology contact mechanics,0.0527779813969259
+59,quentin sanders,energy,0.0500695894560843
+59,quentin sanders,transportation,0.0484323973375304
+60,samuel acuna,artificial intelligence,0.0
+60,samuel acuna,autonomous systems,0.0
+60,samuel acuna,computer engineering,0.0
+60,samuel acuna,computer networks communications,0.0
+60,samuel acuna,data analytics,0.0
+60,samuel acuna,electrical engineering,0.0
+60,samuel acuna,human centered computing,0.0
+61,suman alishetty,artificial intelligence,0.0
+61,suman alishetty,autonomous systems,0.0
+61,suman alishetty,computer engineering,0.0
+61,suman alishetty,computer networks communications,0.0
+61,suman alishetty,data analytics,0.0
+61,suman alishetty,electrical engineering,0.0
+61,suman alishetty,human centered computing,0.0
+62,amit kumar singh,artificial intelligence,0.0
+62,amit kumar singh,autonomous systems,0.0
+62,amit kumar singh,computer engineering,0.0
+62,amit kumar singh,computer networks communications,0.0
+62,amit kumar singh,data analytics,0.0
+62,amit kumar singh,electrical engineering,0.0
+62,amit kumar singh,human centered computing,0.0
+63,shaghayegh bagheri,artificial intelligence,0.0
+63,shaghayegh bagheri,autonomous systems,0.0
+63,shaghayegh bagheri,computer engineering,0.0
+63,shaghayegh bagheri,computer networks communications,0.0
+63,shaghayegh bagheri,data analytics,0.0
+63,shaghayegh bagheri,electrical engineering,0.0
+63,shaghayegh bagheri,human centered computing,0.0
+64,pei dong,data analytics,0.129580263837204
+64,pei dong,autonomous systems,0.1038953467214122
+64,pei dong,education,0.0872638888259322
+64,pei dong,multiscale transport engineering,0.0846554676989285
+64,pei dong,environmental water resources engineering,0.083705636006011
+64,pei dong,design results clinical studies,0.0621201301940722
+64,pei dong,biomedical imaging devices,0.059898498147845
+64,pei dong,energy,0.0579500556964691
+64,pei dong,transportation,0.056055185467121
+64,pei dong,visual computing,0.0473160223407383
+65,pilgyu kang,data analytics,0.1951800145897066
+65,pilgyu kang,design results clinical studies,0.1403524837643413
+65,pilgyu kang,biomedical imaging devices,0.1217996914411725
+65,pilgyu kang,autonomous systems,0.1043281061914602
+65,pilgyu kang,multiscale transport engineering,0.1043281061914601
+65,pilgyu kang,computer networks communications,0.1007490741389201
+65,pilgyu kang,systems engineering,0.0956948752938691
+65,pilgyu kang,computational biomedicine,0.0922138891954147
+65,pilgyu kang,software engineering,0.0912870929175276
+65,pilgyu kang,multiscale tribology contact mechanics,0.0887227147725883
+66,van jones,artificial intelligence,0.0
+66,van jones,autonomous systems,0.0
+66,van jones,computer engineering,0.0
+66,van jones,computer networks communications,0.0
+66,van jones,data analytics,0.0
+66,van jones,electrical engineering,0.0
+66,van jones,human centered computing,0.0
+67,isaac gang,artificial intelligence,0.0
+67,isaac gang,autonomous systems,0.0
+67,isaac gang,computer engineering,0.0
+67,isaac gang,computer networks communications,0.0
+67,isaac gang,data analytics,0.0
+67,isaac gang,electrical engineering,0.0
+67,isaac gang,human centered computing,0.0
+68,cong wang,artificial intelligence,0.0
+68,cong wang,autonomous systems,0.0
+68,cong wang,computer engineering,0.0
+68,cong wang,computer networks communications,0.0
+68,cong wang,data analytics,0.0
+68,cong wang,electrical engineering,0.0
+68,cong wang,human centered computing,0.0
+69,peggy brouse,computer networks communications,0.1059625885652035
+69,peggy brouse,national security,0.1049781318335647
+69,peggy brouse,design results clinical studies,0.0981306762925316
+69,peggy brouse,biomedical imaging devices,0.0960768922830522
+69,peggy brouse,autonomous systems,0.0925820099772551
+69,peggy brouse,applied probability statistics,0.0738548945875996
+69,peggy brouse,theory computation,0.0681005224606998
+69,peggy brouse,visual computing,0.0632455532033675
+69,peggy brouse,sports,0.0617213399848367
+69,peggy brouse,multiscale tribology contact mechanics,0.0583211843519804
+70,md tanvir arafin,biomedical imaging devices,0.2602082499332666
+70,md tanvir arafin,design results clinical studies,0.1792771970728943
+70,md tanvir arafin,autonomous systems,0.1350154312168304
+70,md tanvir arafin,systems engineering,0.127381166341267
+70,md tanvir arafin,software engineering,0.1157275124715689
+70,md tanvir arafin,multiscale transport engineering,0.1028688999747279
+70,md tanvir arafin,geotechnical engineering,0.0833333333333333
+70,md tanvir arafin,computational biomedicine,0.0818317088384971
+70,md tanvir arafin,simulation,0.0818317088384971
+70,md tanvir arafin,visual computing,0.0790569415042094
+71,mohamed ibrahem,design results clinical studies,0.1111324765783042
+71,mohamed ibrahem,national security,0.1111167799007431
+71,mohamed ibrahem,applied probability statistics,0.0959403223600247
+71,mohamed ibrahem,communitybased healthcare,0.0948683298050513
+71,mohamed ibrahem,multiscale tribology contact mechanics,0.0808122035641768
+71,mohamed ibrahem,visual computing,0.0730296743340221
+71,mohamed ibrahem,education,0.0707106781186547
+71,mohamed ibrahem,computer networks communications,0.0688247201611685
+71,mohamed ibrahem,autonomous systems,0.066815310478106
+71,mohamed ibrahem,experimental understanding disease mechanisms,0.0656532164298612
+72,naveen naik sapavath,artificial intelligence,0.0
+72,naveen naik sapavath,autonomous systems,0.0
+72,naveen naik sapavath,computer engineering,0.0
+72,naveen naik sapavath,computer networks communications,0.0
+72,naveen naik sapavath,data analytics,0.0
+72,naveen naik sapavath,electrical engineering,0.0
+72,naveen naik sapavath,human centered computing,0.0
+73,bo yu,artificial intelligence,0.0
+73,bo yu,autonomous systems,0.0
+73,bo yu,computer engineering,0.0
+73,bo yu,computer networks communications,0.0
+73,bo yu,data analytics,0.0
+73,bo yu,electrical engineering,0.0
+73,bo yu,human centered computing,0.0
+74,nicholas clark,artificial intelligence,0.0
+74,nicholas clark,autonomous systems,0.0
+74,nicholas clark,computer engineering,0.0
+74,nicholas clark,computer networks communications,0.0
+74,nicholas clark,data analytics,0.0
+74,nicholas clark,electrical engineering,0.0
+74,nicholas clark,human centered computing,0.0
+75,sherry crissman,artificial intelligence,0.0
+75,sherry crissman,autonomous systems,0.0
+75,sherry crissman,computer engineering,0.0
+75,sherry crissman,computer networks communications,0.0
+75,sherry crissman,data analytics,0.0
+75,sherry crissman,electrical engineering,0.0
+75,sherry crissman,human centered computing,0.0
+76,william roeting,artificial intelligence,0.0
+76,william roeting,autonomous systems,0.0
+76,william roeting,computer engineering,0.0
+76,william roeting,computer networks communications,0.0
+76,william roeting,data analytics,0.0
+76,william roeting,electrical engineering,0.0
+76,william roeting,human centered computing,0.0
+77,dorin marcu,artificial intelligence,0.0
+77,dorin marcu,autonomous systems,0.0
+77,dorin marcu,computer engineering,0.0
+77,dorin marcu,computer networks communications,0.0
+77,dorin marcu,data analytics,0.0
+77,dorin marcu,electrical engineering,0.0
+77,dorin marcu,human centered computing,0.0
+78,itamara lochard,artificial intelligence,0.0
+78,itamara lochard,autonomous systems,0.0
+78,itamara lochard,computer engineering,0.0
+78,itamara lochard,computer networks communications,0.0
+78,itamara lochard,data analytics,0.0
+78,itamara lochard,electrical engineering,0.0
+78,itamara lochard,human centered computing,0.0
+79,angelis pseftis,artificial intelligence,0.0
+79,angelis pseftis,autonomous systems,0.0
+79,angelis pseftis,computer engineering,0.0
+79,angelis pseftis,computer networks communications,0.0
+79,angelis pseftis,data analytics,0.0
+79,angelis pseftis,electrical engineering,0.0
+79,angelis pseftis,human centered computing,0.0
+80,charles macdonough,artificial intelligence,0.0
+80,charles macdonough,autonomous systems,0.0
+80,charles macdonough,computer engineering,0.0
+80,charles macdonough,computer networks communications,0.0
+80,charles macdonough,data analytics,0.0
+80,charles macdonough,electrical engineering,0.0
+80,charles macdonough,human centered computing,0.0
+81,desiree giangregorio,artificial intelligence,0.0
+81,desiree giangregorio,autonomous systems,0.0
+81,desiree giangregorio,computer engineering,0.0
+81,desiree giangregorio,computer networks communications,0.0
+81,desiree giangregorio,data analytics,0.0
+81,desiree giangregorio,electrical engineering,0.0
+81,desiree giangregorio,human centered computing,0.0
+82,devlon alexander,artificial intelligence,0.0
+82,devlon alexander,autonomous systems,0.0
+82,devlon alexander,computer engineering,0.0
+82,devlon alexander,computer networks communications,0.0
+82,devlon alexander,data analytics,0.0
+82,devlon alexander,electrical engineering,0.0
+82,devlon alexander,human centered computing,0.0
+83,eric vollmecke,artificial intelligence,0.0
+83,eric vollmecke,autonomous systems,0.0
+83,eric vollmecke,computer engineering,0.0
+83,eric vollmecke,computer networks communications,0.0
+83,eric vollmecke,data analytics,0.0
+83,eric vollmecke,electrical engineering,0.0
+83,eric vollmecke,human centered computing,0.0
+84,graham archer,artificial intelligence,0.0
+84,graham archer,autonomous systems,0.0
+84,graham archer,computer engineering,0.0
+84,graham archer,computer networks communications,0.0
+84,graham archer,data analytics,0.0
+84,graham archer,electrical engineering,0.0
+84,graham archer,human centered computing,0.0
+85,joseph king,artificial intelligence,0.0
+85,joseph king,autonomous systems,0.0
+85,joseph king,computer engineering,0.0
+85,joseph king,computer networks communications,0.0
+85,joseph king,data analytics,0.0
+85,joseph king,electrical engineering,0.0
+85,joseph king,human centered computing,0.0
+86,joseph cheney,artificial intelligence,0.0
+86,joseph cheney,autonomous systems,0.0
+86,joseph cheney,computer engineering,0.0
+86,joseph cheney,computer networks communications,0.0
+86,joseph cheney,data analytics,0.0
+86,joseph cheney,electrical engineering,0.0
+86,joseph cheney,human centered computing,0.0
+87,krishnan raghavan,artificial intelligence,0.0
+87,krishnan raghavan,autonomous systems,0.0
+87,krishnan raghavan,computer engineering,0.0
+87,krishnan raghavan,computer networks communications,0.0
+87,krishnan raghavan,data analytics,0.0
+87,krishnan raghavan,electrical engineering,0.0
+87,krishnan raghavan,human centered computing,0.0
+88,marc doran,artificial intelligence,0.0
+88,marc doran,autonomous systems,0.0
+88,marc doran,computer engineering,0.0
+88,marc doran,computer networks communications,0.0
+88,marc doran,data analytics,0.0
+88,marc doran,electrical engineering,0.0
+88,marc doran,human centered computing,0.0
+89,mark delvecchio,artificial intelligence,0.0
+89,mark delvecchio,autonomous systems,0.0
+89,mark delvecchio,computer engineering,0.0
+89,mark delvecchio,computer networks communications,0.0
+89,mark delvecchio,data analytics,0.0
+89,mark delvecchio,electrical engineering,0.0
+89,mark delvecchio,human centered computing,0.0
+90,michael pastika,artificial intelligence,0.0
+90,michael pastika,autonomous systems,0.0
+90,michael pastika,computer engineering,0.0
+90,michael pastika,computer networks communications,0.0
+90,michael pastika,data analytics,0.0
+90,michael pastika,electrical engineering,0.0
+90,michael pastika,human centered computing,0.0
+91,russell hansen,artificial intelligence,0.0
+91,russell hansen,autonomous systems,0.0
+91,russell hansen,computer engineering,0.0
+91,russell hansen,computer networks communications,0.0
+91,russell hansen,data analytics,0.0
+91,russell hansen,electrical engineering,0.0
+91,russell hansen,human centered computing,0.0
+92,sandra peake,artificial intelligence,0.0
+92,sandra peake,autonomous systems,0.0
+92,sandra peake,computer engineering,0.0
+92,sandra peake,computer networks communications,0.0
+92,sandra peake,data analytics,0.0
+92,sandra peake,electrical engineering,0.0
+92,sandra peake,human centered computing,0.0
+93,stone bond,artificial intelligence,0.0
+93,stone bond,autonomous systems,0.0
+93,stone bond,computer engineering,0.0
+93,stone bond,computer networks communications,0.0
+93,stone bond,data analytics,0.0
+93,stone bond,electrical engineering,0.0
+93,stone bond,human centered computing,0.0
+94,susan schleigh,artificial intelligence,0.0
+94,susan schleigh,autonomous systems,0.0
+94,susan schleigh,computer engineering,0.0
+94,susan schleigh,computer networks communications,0.0
+94,susan schleigh,data analytics,0.0
+94,susan schleigh,electrical engineering,0.0
+94,susan schleigh,human centered computing,0.0
+95,traci johnson,artificial intelligence,0.0
+95,traci johnson,autonomous systems,0.0
+95,traci johnson,computer engineering,0.0
+95,traci johnson,computer networks communications,0.0
+95,traci johnson,data analytics,0.0
+95,traci johnson,electrical engineering,0.0
+95,traci johnson,human centered computing,0.0
+96,joseph kobsar,artificial intelligence,0.0
+96,joseph kobsar,autonomous systems,0.0
+96,joseph kobsar,computer engineering,0.0
+96,joseph kobsar,computer networks communications,0.0
+96,joseph kobsar,data analytics,0.0
+96,joseph kobsar,electrical engineering,0.0
+96,joseph kobsar,human centered computing,0.0
+97,robert latiff,artificial intelligence,0.0
+97,robert latiff,autonomous systems,0.0
+97,robert latiff,computer engineering,0.0
+97,robert latiff,computer networks communications,0.0
+97,robert latiff,data analytics,0.0
+97,robert latiff,electrical engineering,0.0
+97,robert latiff,human centered computing,0.0

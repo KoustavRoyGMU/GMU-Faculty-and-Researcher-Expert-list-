@@ -1,0 +1,321 @@
+,Name,similar_categories,category_score
+1,david kepplinger,digital value chain,0.6413945636668352
+1,david kepplinger,puerto rico,0.6144660227796854
+1,david kepplinger,native american,0.5489716413565446
+1,david kepplinger,infrastructure,0.4380463439167664
+1,david kepplinger,value chain,0.3925679419426603
+1,david kepplinger,survey sampling,0.337868689199743
+1,david kepplinger,unmanned autonomous vehicles,0.2999584861272488
+1,david kepplinger,interdependencies,0.2871883858197815
+1,david kepplinger,medical image analysis,0.2628001654121231
+1,david kepplinger,image,0.2470246356342049
+2,ilhan izmirli,puerto rico,0.6190585860273095
+2,ilhan izmirli,native american,0.5526818861547884
+2,ilhan izmirli,infrastructure,0.5455566044965939
+2,ilhan izmirli,digital value chain,0.5152570752799821
+2,ilhan izmirli,value chain,0.3460642701029913
+2,ilhan izmirli,unmanned autonomous vehicles,0.3383089007949746
+2,ilhan izmirli,survey sampling,0.3276291711797649
+2,ilhan izmirli,image,0.3266430766296306
+2,ilhan izmirli,medical image analysis,0.3159120118032816
+2,ilhan izmirli,power aware computing,0.2388070341170243
+4,kenneth pasiah,puerto rico,0.5343528749093224
+4,kenneth pasiah,infrastructure,0.483698258770496
+4,kenneth pasiah,digital value chain,0.4702065404025533
+4,kenneth pasiah,native american,0.4405077407737433
+4,kenneth pasiah,value chain,0.3504891433324414
+4,kenneth pasiah,data mining big data analysis,0.2964056445657164
+4,kenneth pasiah,big data,0.2879415244264045
+4,kenneth pasiah,survey sampling,0.2879415244264045
+4,kenneth pasiah,photoacoustic imaging microscopy,0.242359683319281
+4,kenneth pasiah,big data analytics  characterization,0.2230385457570081
+8,robert simon,puerto rico,0.6396021490668313
+8,robert simon,infrastructure,0.5567022142689042
+8,robert simon,digital value chain,0.4648299895573856
+8,robert simon,native american,0.4545454545454546
+8,robert simon,value chain,0.3098753415048174
+8,robert simon,survey sampling,0.2461829819586654
+8,robert simon,photoacoustic imaging microscopy,0.201455741006345
+8,robert simon,unmanned autonomous vehicles,0.1928473039599675
+8,robert simon,image,0.1928473039599675
+8,robert simon,precipitation,0.1685499656158105
+9,sean luke,puerto rico,0.6717514421272202
+9,sean luke,infrastructure,0.5785300076028639
+9,sean luke,digital value chain,0.5249999999999999
+9,sean luke,native american,0.5125692857821981
+9,sean luke,unmanned autonomous vehicles,0.2345207879911714
+9,sean luke,image,0.2345207879911714
+9,sean luke,medical image analysis,0.2309401076758502
+9,sean luke,survey sampling,0.2177324215807269
+9,sean luke,interdependencies,0.2041241452319315
+9,sean luke,value chain,0.1897366596101027
+10,zoran duric,puerto rico,0.6864064729836441
+10,zoran duric,native american,0.6062754572551408
+10,zoran duric,digital value chain,0.531587688049178
+10,zoran duric,infrastructure,0.4950218379492162
+10,zoran duric,unmanned autonomous vehicles,0.2956561979945413
+10,zoran duric,image,0.2956561979945413
+10,zoran duric,value chain,0.2850438562747845
+10,zoran duric,survey sampling,0.2830692585361489
+10,zoran duric,photoacoustic imaging microscopy,0.2594372608313854
+10,zoran duric,interdependencies,0.254762332682534
+13,gregory stein,infrastructure,0.5354866611934024
+13,gregory stein,puerto rico,0.529779093444114
+13,gregory stein,digital value chain,0.4994805193402595
+13,gregory stein,value chain,0.466206103393254
+13,gregory stein,native american,0.4372230279968167
+13,gregory stein,sustainable,0.3618273111793315
+13,gregory stein,resilient,0.2598525822191908
+13,gregory stein,interdependencies,0.1677341205673199
+13,gregory stein,precipitation,0.1513181954084909
+13,gregory stein,survey sampling,0.1512895989430728
+15,jyh ming lien,puerto rico,0.5837172315870185
+15,jyh ming lien,infrastructure,0.5784074945196682
+15,jyh ming lien,digital value chain,0.4233337566673016
+15,jyh ming lien,native american,0.4020657800604289
+15,jyh ming lien,value chain,0.2208853154481871
+15,jyh ming lien,sustainable,0.1854955583040673
+15,jyh ming lien,data mining big data analysis,0.1743474184853512
+15,jyh ming lien,precipitation,0.1703885502741194
+15,jyh ming lien,medical image analysis,0.1466471150213532
+15,jyh ming lien,software analysis,0.1428751428752143
+17,lap fai craig yu,neural interfaces,0.4264014327112209
+17,lap fai craig yu,ai nlp programming,0.3659625273556999
+17,lap fai craig yu,integer programming optimization,0.3198010745334156
+17,lap fai craig yu,hardware,0.3061862178478973
+17,lap fai craig yu,neuroinformatics computational neuroanatomy,0.3061862178478973
+17,lap fai craig yu,computational neuroanatomy,0.3061862178478973
+17,lap fai craig yu,graphics,0.3061862178478973
+17,lap fai craig yu,responsible ai,0.3061862178478973
+17,lap fai craig yu,human ai collaboration,0.2802242691589025
+17,lap fai craig yu,computational geometry,0.2738612787525831
+19,sara lynn gopalkrishna,puerto rico,0.5008673033404711
+19,sara lynn gopalkrishna,infrastructure,0.3897897214345537
+19,sara lynn gopalkrishna,digital value chain,0.3888888888888889
+19,sara lynn gopalkrishna,native american,0.3643262080314644
+19,sara lynn gopalkrishna,value chain,0.3294039229342062
+19,sara lynn gopalkrishna,sustainable,0.2586467632663284
+19,sara lynn gopalkrishna,survey sampling,0.2041241452319315
+19,sara lynn gopalkrishna,unmanned autonomous vehicles,0.1421338109037403
+19,sara lynn gopalkrishna,image,0.1421338109037403
+19,sara lynn gopalkrishna,interdependencies,0.1360827634879543
+22,hoda hassan,puerto rico,0.5092534540479525
+22,hoda hassan,infrastructure,0.4852401761617404
+22,hoda hassan,digital value chain,0.4232714076648877
+22,hoda hassan,value chain,0.3955572237254419
+22,hoda hassan,native american,0.3428627406618707
+22,hoda hassan,hardware,0.2144225069675589
+22,hoda hassan,cryptographic hardware,0.1917853205941536
+22,hoda hassan,sustainable,0.1660909597074799
+22,hoda hassan,software analysis,0.1610958342605169
+22,hoda hassan,hardware security,0.1560152902477031
+24,nora mcdonald,puerto rico,0.5513228042919811
+24,nora mcdonald,infrastructure,0.4872474442646632
+24,nora mcdonald,digital value chain,0.4298281031312482
+24,nora mcdonald,native american,0.415919321049137
+24,nora mcdonald,survey sampling,0.2285276498747161
+24,nora mcdonald,unmanned autonomous vehicles,0.2045908677150258
+24,nora mcdonald,image,0.2045908677150258
+24,nora mcdonald,interdependencies,0.1958808427497567
+24,nora mcdonald,medical image analysis,0.1846782296171849
+24,nora mcdonald,data mining big data analysis,0.1764339621485801
+25,omoche cheche agada,puerto rico,0.4888129019342115
+25,omoche cheche agada,infrastructure,0.4443662217746298
+25,omoche cheche agada,digital value chain,0.4416548392694769
+25,omoche cheche agada,native american,0.3589636762825998
+25,omoche cheche agada,value chain,0.3279056631011506
+25,omoche cheche agada,survey sampling,0.2404064441424749
+25,omoche cheche agada,ai nlp programming,0.1947477216678456
+25,omoche cheche agada,data mining big data analysis,0.1882948698752297
+25,omoche cheche agada,biomedical imaging,0.1810418155311894
+25,omoche cheche agada,clinical informatics,0.170025158645041
+30,david binning,puerto rico,0.7431605356175384
+30,david binning,infrastructure,0.6468382201954099
+30,david binning,native american,0.5972058130371567
+30,david binning,digital value chain,0.5928648611999251
+30,david binning,unmanned autonomous vehicles,0.3102526139970114
+30,david binning,precipitation,0.3073181485764296
+30,david binning,survey sampling,0.2970442628930023
+30,david binning,value chain,0.2940032457248253
+30,david binning,image,0.2930163576638441
+30,david binning,medical image analysis,0.2489386816049795
+31,david lattanzi,native american,0.5593024255880189
+31,david lattanzi,digital value chain,0.556498887003339
+31,david lattanzi,puerto rico,0.524672182297103
+31,david lattanzi,infrastructure,0.4697161901456929
+31,david lattanzi,value chain,0.3854808758135448
+31,david lattanzi,survey sampling,0.3461938579263323
+31,david lattanzi,unmanned autonomous vehicles,0.2937899995586196
+31,david lattanzi,image,0.2937899995586196
+31,david lattanzi,interdependencies,0.2596453934447493
+31,david lattanzi,medical image analysis,0.2549958589008769
+32,wenying ji,puerto rico,0.5333333333333333
+32,wenying ji,infrastructure,0.4758122596122408
+32,wenying ji,digital value chain,0.4478342947514802
+32,wenying ji,native american,0.4264014327112209
+32,wenying ji,value chain,0.2832352771499734
+32,wenying ji,survey sampling,0.2437701136578419
+32,wenying ji,unmanned autonomous vehicles,0.2211083193570266
+32,wenying ji,image,0.2010075630518424
+32,wenying ji,interdependencies,0.1732050807568877
+32,wenying ji,sensors small integrated systems,0.1703703703703703
+34,shanjiang zhu,puerto rico,0.7037037037037037
+34,shanjiang zhu,digital value chain,0.5936205076627806
+34,shanjiang zhu,native american,0.5606389207869755
+34,shanjiang zhu,infrastructure,0.4964436855032864
+34,shanjiang zhu,value chain,0.3478327964999672
+34,shanjiang zhu,interdependencies,0.2779834629431532
+34,shanjiang zhu,medical image analysis,0.2671254246245029
+34,shanjiang zhu,survey sampling,0.2637279007409401
+34,shanjiang zhu,unmanned autonomous vehicles,0.2568429972329097
+34,shanjiang zhu,image,0.2345088235604828
+37,nathalia peixoto,infrastructure,0.582633057302175
+37,nathalia peixoto,puerto rico,0.4949747468305833
+37,nathalia peixoto,digital value chain,0.3222222222222222
+37,nathalia peixoto,value chain,0.3056868404829433
+37,nathalia peixoto,native american,0.2914609664251715
+37,nathalia peixoto,sustainable,0.2190890230020664
+37,nathalia peixoto,precipitation,0.2086996778999803
+37,nathalia peixoto,resilient,0.1370320319406297
+37,nathalia peixoto,bio based transport,0.1217161238900369
+37,nathalia peixoto,thermal based transport,0.1135008707678331
+39,filipe veiga,puerto rico,0.6083013899702642
+39,filipe veiga,digital value chain,0.566994868079187
+39,filipe veiga,infrastructure,0.519831884032117
+39,filipe veiga,native american,0.5069711418523887
+39,filipe veiga,value chain,0.4204264618050733
+39,filipe veiga,survey sampling,0.2873478855663454
+39,filipe veiga,interdependencies,0.2394565713052878
+39,filipe veiga,medical image analysis,0.2257618204928654
+39,filipe veiga,unmanned autonomous vehicles,0.2167570009072672
+39,filipe veiga,image,0.2167570009072672
+40,jill nelson,puerto rico,0.6573757351339165
+40,jill nelson,infrastructure,0.5409627460747114
+40,jill nelson,digital value chain,0.4648348401006841
+40,jill nelson,native american,0.4586824722938629
+40,jill nelson,value chain,0.2939873661036668
+40,jill nelson,survey sampling,0.2070196678027062
+40,jill nelson,data mining big data analysis,0.1740358053345964
+40,jill nelson,interdependencies,0.1725163898355886
+40,jill nelson,sustainable,0.169733684958301
+40,jill nelson,photoacoustic imaging microscopy,0.1581138830084189
+42,maryam parsa,infrastructure,0.5252878993661292
+42,maryam parsa,puerto rico,0.5106621799868927
+42,maryam parsa,digital value chain,0.410332602686633
+42,maryam parsa,native american,0.3662110068900143
+42,maryam parsa,value chain,0.3529432893783948
+42,maryam parsa,sustainable,0.239731650742692
+42,maryam parsa,precipitation,0.1468050548786759
+42,maryam parsa,resilient,0.1453295897440449
+42,maryam parsa,survey sampling,0.1429483379783726
+42,maryam parsa,data mining big data analysis,0.1351943781889587
+44,sai manoj pudukotai dinakarrao,puerto rico,0.3991708273378583
+44,sai manoj pudukotai dinakarrao,infrastructure,0.398793360750042
+44,sai manoj pudukotai dinakarrao,digital value chain,0.3558885029135166
+44,sai manoj pudukotai dinakarrao,value chain,0.3104602102825331
+44,sai manoj pudukotai dinakarrao,native american,0.2812115861560293
+44,sai manoj pudukotai dinakarrao,survey sampling,0.2204413244154556
+44,sai manoj pudukotai dinakarrao,unmanned autonomous vehicles,0.1465185617509551
+44,sai manoj pudukotai dinakarrao,precipitation,0.1426935379865974
+44,sai manoj pudukotai dinakarrao,photoacoustic imaging microscopy,0.1311933838220964
+44,sai manoj pudukotai dinakarrao,big data,0.1302607826091329
+45,zhi tian,puerto rico,0.6976011479687814
+45,zhi tian,infrastructure,0.6447188656014462
+45,zhi tian,digital value chain,0.5919342027506945
+45,zhi tian,native american,0.5408329617361468
+45,zhi tian,value chain,0.3119767176080169
+45,zhi tian,interdependencies,0.2855936038564354
+45,zhi tian,medical image analysis,0.2347396893782311
+45,zhi tian,survey sampling,0.2196873875818734
+45,zhi tian,unmanned autonomous vehicles,0.214158926650387
+45,zhi tian,data mining big data analysis,0.211068814726488
+46,kuochu chang,puerto rico,0.6204895470677798
+46,kuochu chang,digital value chain,0.53731268057538
+46,kuochu chang,infrastructure,0.5259781295930451
+46,kuochu chang,native american,0.5061485131082462
+46,kuochu chang,value chain,0.3800425165826586
+46,kuochu chang,interdependencies,0.2725737662176654
+46,kuochu chang,survey sampling,0.2388265380192877
+46,kuochu chang,data mining big data analysis,0.2244689175092615
+46,kuochu chang,unmanned autonomous vehicles,0.2033528669922324
+46,kuochu chang,image,0.1952187523125431
+47,paulo costa,infrastructure,0.6311215821899463
+47,paulo costa,puerto rico,0.6042529110787241
+47,paulo costa,digital value chain,0.5145633233253065
+47,paulo costa,native american,0.4405057506840766
+47,paulo costa,value chain,0.3922695246118537
+47,paulo costa,survey sampling,0.2250745683031718
+47,paulo costa,precipitation,0.1972454690886152
+47,paulo costa,sustainable,0.1912471731982784
+47,paulo costa,data mining big data analysis,0.1729957204361466
+47,paulo costa,interdependencies,0.1688059262273789
+48,shima mohebbi,infrastructure,0.7125566250531651
+48,shima mohebbi,puerto rico,0.7017130580269054
+48,shima mohebbi,digital value chain,0.5696951079673036
+48,shima mohebbi,native american,0.5402429017823582
+48,shima mohebbi,value chain,0.3574011224241334
+48,shima mohebbi,subsystems,0.2789472175017626
+48,shima mohebbi,precipitation,0.2342289945427305
+48,shima mohebbi,sustainable,0.2315097359768634
+48,shima mohebbi,bio metrics forensic science,0.2217166852539308
+48,shima mohebbi,neural networks,0.2205271385679885
+59,quentin sanders,digital value chain,0.5846748071752929
+59,quentin sanders,puerto rico,0.5805577953661855
+59,quentin sanders,native american,0.5626151720813848
+59,quentin sanders,infrastructure,0.4593733643825148
+59,quentin sanders,value chain,0.4012515240037355
+59,quentin sanders,survey sampling,0.3250280721792027
+59,quentin sanders,unmanned autonomous vehicles,0.2705237222964848
+59,quentin sanders,image,0.2546105621613974
+59,quentin sanders,interdependencies,0.2437710541344021
+59,quentin sanders,medical image analysis,0.2298295539139049
+64,pei dong,puerto rico,0.4581354163361446
+64,pei dong,infrastructure,0.3934389543046799
+64,pei dong,digital value chain,0.367144080872078
+64,pei dong,native american,0.3125593566423739
+64,pei dong,value chain,0.2595202232363727
+64,pei dong,precipitation,0.1931668523215639
+64,pei dong,survey sampling,0.1645806437003396
+64,pei dong,unmanned autonomous vehicles,0.1473418937367514
+64,pei dong,photoacoustic imaging microscopy,0.138527128961883
+64,pei dong,data mining big data analysis,0.1355348295143394
+65,pilgyu kang,infrastructure,0.4204374825912609
+65,pilgyu kang,puerto rico,0.3795360576382948
+65,pilgyu kang,digital value chain,0.3253000243161777
+65,pilgyu kang,native american,0.2795326960098373
+65,pilgyu kang,value chain,0.2160246899469286
+65,pilgyu kang,data mining big data analysis,0.1722507755289643
+65,pilgyu kang,unmanned autonomous vehicles,0.1664500757152958
+65,pilgyu kang,hardware software co design neural archi,0.1630407264489847
+65,pilgyu kang,sustainable,0.1603567451474546
+65,pilgyu kang,interdependencies,0.1593638145779191
+69,peggy brouse,value chain,0.4929503017546495
+69,peggy brouse,digital value chain,0.4522577108652069
+69,peggy brouse,native american,0.4177863742936748
+69,peggy brouse,puerto rico,0.4082482904638631
+69,peggy brouse,infrastructure,0.3979746705304728
+69,peggy brouse,sustainable,0.2951459149490487
+69,peggy brouse,subsystems,0.2921186973360886
+69,peggy brouse,bio metrics forensic science,0.2722178614686481
+69,peggy brouse,neural networks,0.2309401076758503
+69,peggy brouse,resilient,0.2190890230020664
+70,md tanvir arafin,infrastructure,0.3375678008963833
+70,md tanvir arafin,puerto rico,0.3061862178478973
+70,md tanvir arafin,devices,0.2970442628930023
+70,md tanvir arafin,devices,0.2970442628930023
+70,md tanvir arafin,hardware software co design neural archi,0.2411404863916783
+70,md tanvir arafin,system enterprise architecture design,0.2354332859151151
+70,md tanvir arafin,ultrasound imaging devices,0.2242713067862651
+70,md tanvir arafin,engineering design,0.207901852027894
+70,md tanvir arafin,hw sw co design,0.2041241452319315
+70,md tanvir arafin,native american,0.19583736295016
+71,mohamed ibrahem,infrastructure,0.3692744729379982
+71,mohamed ibrahem,puerto rico,0.3535533905932737
+71,mohamed ibrahem,digital value chain,0.2916666666666667
+71,mohamed ibrahem,native american,0.2412090756622109
+71,mohamed ibrahem,computer security,0.2213594362117865
+71,mohamed ibrahem,computer network security,0.210090292575556
+71,mohamed ibrahem,value chain,0.2055480479109446
+71,mohamed ibrahem,network web security,0.2025406805378299
+71,mohamed ibrahem,iot security,0.196116135138184
+71,mohamed ibrahem,cyber security,0.196116135138184
