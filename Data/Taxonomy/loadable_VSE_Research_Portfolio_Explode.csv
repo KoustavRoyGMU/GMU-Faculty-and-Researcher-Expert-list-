@@ -1,0 +1,181 @@
+,Topic,Area,Category,Topic_ID,Area_ID,Category_ID
+0,digital systems and data,artificial intelligence,cognitive systems,t0,a0,c0
+1,digital systems and data,artificial intelligence,intelligent agents,t0,a0,c1
+2,digital systems and data,artificial intelligence,knowledge representation reasoning,t0,a0,c2
+3,digital systems and data,artificial intelligence,machine learning,t0,a0,c3
+4,digital systems and data,artificial intelligence,natural language processing,t0,a0,c4
+5,digital systems and data,autonomous systems,robotics,t0,a1,c5
+6,digital systems and data,autonomous systems,unmanned autonomous vehicles,t0,a1,c6
+7,digital systems and data,computer engineering,computer architecture,t0,a2,c7
+8,digital systems and data,computer engineering,computing components,t0,a2,c8
+9,digital systems and data,computer engineering,devices,t0,a2,c9
+10,digital systems and data,computer engineering,subsystems,t0,a2,c10
+11,digital systems and data,computer engineering,real time,t0,a2,c11
+12,digital systems and data,computer engineering,embedded systems,t0,a2,c12
+13,digital systems and data,computer networks communications,distributed systems,t0,a3,c13
+14,digital systems and data,computer networks communications,cloud computing,t0,a3,c14
+15,digital systems and data,computer networks communications,internet things,t0,a3,c15
+16,digital systems and data,computer networks communications,mobile,t0,a3,c16
+17,digital systems and data,computer networks communications,wireless,t0,a3,c17
+18,digital systems and data,computer networks communications,5g,t0,a3,c18
+19,digital systems and data,computer networks communications,next g communications networks,t0,a3,c19
+20,digital systems and data,computer networks communications,network architecture,t0,a3,c20
+21,digital systems and data,cybersecurity,biometrics,t0,a4,c21
+22,digital systems and data,cybersecurity,cryptography,t0,a4,c22
+23,digital systems and data,cybersecurity,digital forensics analysis,t0,a4,c23
+24,digital systems and data,cybersecurity,leadership,t0,a4,c24
+25,digital systems and data,cybersecurity,governance policy,t0,a4,c25
+26,digital systems and data,cybersecurity,operations,t0,a4,c26
+27,digital systems and data,cybersecurity,privacy,t0,a4,c27
+28,digital systems and data,cybersecurity,system security including communications,t0,a4,c28
+29,digital systems and data,cybersecurity,cyber physical,t0,a4,c29
+30,digital systems and data,cybersecurity,hardware,t0,a4,c30
+31,digital systems and data,cybersecurity,network systems,t0,a4,c31
+32,digital systems and data,data analytics,data fusion,t0,a5,c32
+33,digital systems and data,data analytics,data mining big data analysis,t0,a5,c33
+34,digital systems and data,data analytics,visualization,t0,a5,c34
+35,digital systems and data,electrical engineering,nanomaterials devices,t0,a6,c35
+36,digital systems and data,electrical engineering,sensors small integrated systems,t0,a6,c36
+37,digital systems and data,electrical engineering,transmission,t0,a6,c37
+38,digital systems and data,electrical engineering,spectrum analysis,t0,a6,c38
+39,digital systems and data,electrical engineering,signal processing,t0,a6,c39
+40,digital systems and data,human centered computing,accessible ubiquitous computing,t0,a7,c40
+41,digital systems and data,human centered computing,collaborative social computing,t0,a7,c41
+42,digital systems and data,human centered computing,online communities,t0,a7,c42
+43,digital systems and data,human centered computing,world wide web,t0,a7,c43
+44,digital systems and data,human centered computing,human computer interaction,t0,a7,c44
+45,digital systems and data,software engineering,software analysis,t0,a8,c45
+46,digital systems and data,software engineering,architecture,t0,a8,c46
+47,digital systems and data,software engineering,construction,t0,a8,c47
+48,digital systems and data,software engineering,software resilience,t0,a8,c48
+49,digital systems and data,software engineering,software testing,t0,a8,c49
+50,digital systems and data,theory computation,computational geometry,t0,a9,c50
+51,digital systems and data,theory computation,combinatorial algorithms,t0,a9,c51
+52,digital systems and data,theory computation,theory security,t0,a9,c52
+53,digital systems and data,visual computing,computer graphics,t0,a10,c53
+54,digital systems and data,visual computing,computer vision pattern recognition,t0,a10,c54
+55,digital systems and data,visual computing,virtual reality,t0,a10,c55
+56,healthcare,bioinformatics,analyzing healthcare records,t1,a11,c56
+57,healthcare,biostatistics,analyzing healthcare records,t1,a12,c56
+58,healthcare,computational biology,analyzing healthcare records,t1,a13,c56
+59,healthcare,bioinformatics,analyzing human movement,t1,a11,c57
+60,healthcare,biostatistics,analyzing human movement,t1,a12,c57
+61,healthcare,computational biology,analyzing human movement,t1,a13,c57
+62,healthcare,bioinformatics,collecting analyzing data wearable devices,t1,a11,c58
+63,healthcare,biostatistics,collecting analyzing data wearable devices,t1,a12,c58
+64,healthcare,computational biology,collecting analyzing data wearable devices,t1,a13,c58
+65,healthcare,bioinformatics,diagnostic medicine,t1,a11,c59
+66,healthcare,biostatistics,diagnostic medicine,t1,a12,c59
+67,healthcare,computational biology,diagnostic medicine,t1,a13,c59
+68,healthcare,bioinformatics,modeling health outcomes statistical analysis including longitudinal,t1,a11,c60
+69,healthcare,biostatistics,modeling health outcomes statistical analysis including longitudinal,t1,a12,c60
+70,healthcare,computational biology,modeling health outcomes statistical analysis including longitudinal,t1,a13,c60
+71,healthcare,bioinformatics,time series,t1,a11,c61
+72,healthcare,biostatistics,time series,t1,a12,c61
+73,healthcare,computational biology,time series,t1,a13,c61
+74,healthcare,bioinformatics,survival models,t1,a11,c62
+75,healthcare,biostatistics,survival models,t1,a12,c62
+76,healthcare,computational biology,survival models,t1,a13,c62
+77,healthcare,bioinformatics,modeling nanoparticles,t1,a11,c63
+78,healthcare,biostatistics,modeling nanoparticles,t1,a12,c63
+79,healthcare,computational biology,modeling nanoparticles,t1,a13,c63
+80,healthcare,biomaterials nanomedicine,bio inspired nanoarchitectures control cell behavior,t1,a14,c64
+81,healthcare,biomaterials nanomedicine,biomaterials regenerative medicine,t1,a14,c65
+82,healthcare,biomaterials nanomedicine,delivery nanoparticles,t1,a14,c66
+83,healthcare,biomedical imaging devices,ultrasound imaging devices,t1,a15,c67
+84,healthcare,biomedical imaging devices,photoacoustic imaging microscopy,t1,a15,c68
+85,healthcare,biomedical imaging devices,bio nano sensors wearable,t1,a15,c69
+86,healthcare,biomedical imaging devices,flexible sensors,t1,a15,c70
+87,healthcare,community based healthcare,substance use disorders,t1,a16,c71
+88,healthcare,computational biomedicine,aneurysm risk assessment,t1,a17,c72
+89,healthcare,computational biomedicine,data driven biomechanical simulation,t1,a17,c73
+90,healthcare,computational biomedicine,signal video analytics wellness,t1,a17,c74
+91,healthcare,design results clinical studies,new clinical trial methods,t1,a18,c75
+92,healthcare,design results clinical studies,results clinical studies,t1,a18,c76
+93,healthcare,experimental understanding disease mechanisms,viral infections,t1,a19,c77
+94,healthcare,neuroengineering,neuroinformatics computational neuroanatomy,t1,a20,c78
+95,healthcare,neuroengineering,computational experimental neuroplasticity memory,t1,a20,c79
+96,healthcare,neuroengineering,neural interfaces,t1,a20,c80
+97,resilient & sustainable infrastructure & environment,construction engineering management,construction health safety,t2,a21,c81
+98,resilient & sustainable infrastructure & environment,construction engineering management,modeling,t2,a21,c82
+99,resilient & sustainable infrastructure & environment,construction engineering management,simulation,t2,a21,c83
+100,resilient & sustainable infrastructure & environment,construction engineering management,virtualization,t2,a21,c84
+101,resilient & sustainable infrastructure & environment,construction engineering management,procurement economic models,t2,a21,c85
+102,resilient & sustainable infrastructure & environment,construction engineering management,project management,t2,a21,c86
+103,resilient & sustainable infrastructure & environment,environmental water resources engineering,climate weather modeling remote sensing,t2,a22,c87
+104,resilient & sustainable infrastructure & environment,environmental water resources engineering,coastal building resilience,t2,a22,c88
+105,resilient & sustainable infrastructure & environment,environmental water resources engineering,environmental health,t2,a22,c89
+106,resilient & sustainable infrastructure & environment,environmental water resources engineering,hydraulic land surface modeling,t2,a22,c90
+107,resilient & sustainable infrastructure & environment,environmental water resources engineering,pollution,t2,a22,c91
+108,resilient & sustainable infrastructure & environment,environmental water resources engineering,sustainability,t2,a22,c92
+109,resilient & sustainable infrastructure & environment,geotechnical engineering,building material properties structures,t2,a23,c93
+110,resilient & sustainable infrastructure & environment,geotechnical engineering,geosynthetics,t2,a23,c94
+111,resilient & sustainable infrastructure & environment,geotechnical engineering,recycled materials geo environmental modeling,t2,a23,c95
+112,resilient & sustainable infrastructure & environment,structural engineering,structural health monitoring inspection,t2,a24,c96
+113,resilient & sustainable infrastructure & environment,structural engineering,structural stress,t2,a24,c97
+114,materials and mechanics,computational fluid dynamics,computational fluid dynamics,t3,a25,c98
+115,materials and mechanics,multiscale transport engineering,bio based transport,t3,a26,c99
+116,materials and mechanics,multiscale transport engineering,electrical based transport,t3,a26,c100
+117,materials and mechanics,multiscale transport engineering,thermal based transport,t3,a26,c101
+118,materials and mechanics,multiscale tribology contact mechanics,high temperature tribology,t3,a27,c102
+119,materials and mechanics,multiscale tribology contact mechanics,nano scale surface engineering,t3,a27,c103
+120,materials and mechanics,multiscale tribology contact mechanics,indentation scratch,t3,a27,c104
+121,materials and mechanics,nanomaterials photonics synthesis,additive manufacturing,t3,a28,c105
+122,materials and mechanics,nanomaterials photonics synthesis,electrocatalysts,t3,a28,c106
+123,materials and mechanics,nanomaterials photonics synthesis,energy generation storage,t3,a28,c107
+124,materials and mechanics,nanomaterials photonics synthesis,fabric synthesis,t3,a28,c108
+125,materials and mechanics,nanomaterials photonics synthesis,plasonics nanophotonics,t3,a28,c109
+126,materials and mechanics,nanomaterials photonics synthesis,two dimensional materials,t3,a28,c110
+127,systems; modeling & analysis,applied probability statistics,general,t4,a29,c111
+128,systems; modeling & analysis,applied probability statistics,stylometry,t4,a29,c112
+129,systems; modeling & analysis,optimization techniques,analytic hierarchy process optimization,t4,a30,c113
+130,systems; modeling & analysis,optimization techniques,combinatorial optimization,t4,a30,c114
+131,systems; modeling & analysis,optimization techniques,integer programming optimization,t4,a30,c115
+132,systems; modeling & analysis,optimization techniques,portfolio optimization,t4,a30,c116
+133,systems; modeling & analysis,optimization techniques,process optimization,t4,a30,c117
+134,systems; modeling & analysis,optimization techniques,robust optimization,t4,a30,c118
+135,systems; modeling & analysis,optimization techniques,stochastic optimization,t4,a30,c119
+136,systems; modeling & analysis,simulation,rare event simulation,t4,a31,c120
+137,systems; modeling & analysis,simulation,simulation optimization,t4,a31,c121
+138,systems; modeling & analysis,simulation,model calibration,t4,a31,c122
+139,systems; modeling & analysis,statistical modeling,time series modeling,t4,a32,c123
+140,systems; modeling & analysis,statistical modeling,nonparametric inference,t4,a32,c124
+141,systems; modeling & analysis,stochastic modeling,bayesian networks,t4,a33,c125
+142,systems; modeling & analysis,stochastic modeling,markov models,t4,a33,c126
+143,systems; modeling & analysis,stochastic modeling,queueing theory,t4,a33,c127
+144,systems; modeling & analysis,stochastic modeling,probabilistic ontologies,t4,a33,c128
+145,systems; modeling & analysis,systems engineering,acquisition decision support,t4,a34,c129
+146,systems; modeling & analysis,systems engineering,model based systems engineering,t4,a34,c130
+147,systems; modeling & analysis,systems engineering,system analysis simulation,t4,a34,c131
+148,systems; modeling & analysis,systems engineering,system enterprise architecture design,t4,a34,c132
+149,systems; modeling & analysis,systems engineering,workforce development,t4,a34,c133
+150,specific business sectors,civilian government ngos,emergency response systems,t5,a35,c134
+151,specific business sectors,civilian government ngos,humanitarian organizations human rights,t5,a35,c135
+152,specific business sectors,civilian government ngos,law enforcement,t5,a35,c136
+153,specific business sectors,education,curricular development enhanced educational opportunities,t5,a36,c137
+154,specific business sectors,education,engineering computing student learning methods effectiveness,t5,a36,c138
+155,specific business sectors,education,distance computer based learning,t5,a36,c139
+156,specific business sectors,energy,power system reliability,t5,a37,c140
+157,specific business sectors,energy,power system management,t5,a37,c141
+158,specific business sectors,energy,power system security,t5,a37,c142
+159,specific business sectors,finance,operational risk management,t5,a38,c143
+160,specific business sectors,finance,portfolio optimization asset allocation,t5,a38,c144
+161,specific business sectors,finance,regulation,t5,a38,c145
+162,specific business sectors,humanities,linguistics,t5,a39,c146
+163,specific business sectors,manufacturing,semiconductor manufacturing,t5,a40,c147
+164,specific business sectors,manufacturing,sustainable manufacturing,t5,a40,c148
+165,specific business sectors,national security,command,t5,a41,c149
+166,specific business sectors,national security,control,t5,a41,c150
+167,specific business sectors,national security,communications,t5,a41,c151
+168,specific business sectors,national security,computers,t5,a41,c152
+169,specific business sectors,national security,intelligence c4i cyber,t5,a41,c153
+170,specific business sectors,national security,embedded systems,t5,a41,c12
+171,specific business sectors,national security,life cycle maintenance analysis,t5,a41,c154
+172,specific business sectors,national security,intelligence strategic analysis,t5,a41,c155
+173,specific business sectors,sports,player team analytics,t5,a42,c156
+174,specific business sectors,transportation,economics,t5,a43,c157
+175,specific business sectors,transportation,safety security,t5,a43,c158
+176,specific business sectors,transportation,emergency response,t5,a43,c159
+177,specific business sectors,transportation,sustainability resilience,t5,a43,c160
+178,specific business sectors,transportation,system management,t5,a43,c161
+179,specific business sectors,transportation,modeling performance,t5,a43,c162
