@@ -4,7 +4,7 @@ George Mason DAEN 690 Capstone Project Repository
 ## GMU Faculty and Researcher Experts List
 
 **Product Owner:** Arias, Joseph Lacayo  
-**Scrum Master:** Gundumogula, Koushik Gundumogula  
+**Scrum Master:** Gundumogula, Koushik  
 **Developers:** Jakku, Bhargav Teja | Roy, Koustav | Choi, Seung Gyu  
 
 **Client:** GMU C4I & Cyber Center  
