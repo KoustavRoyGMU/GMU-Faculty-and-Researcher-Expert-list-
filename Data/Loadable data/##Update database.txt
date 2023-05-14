@@ -1,0 +1,66 @@
+##Update database
+
+#Delete 32 person nodes
+
+WITH ['alexander levis', 'amarda shehu', 'angelos stavrou', 'binqian yin', 'bo liu', 'christine alonzo yee', 'christopher a carr', 'damon mccoy', 'daniel menasce', 'diana wang', 'george hazelrigg', 'gino manzo', 'gurdip singh', 'hans hoyer', 'harry wechsler', 'jan allbeck', 'jean pierre auffret', 'jonathan goldman', 'kamaljeet sanghera', 'kenneth ball', 'kirin emlet furst', 'larry kerschberg', 'leonard adelman', 'lisa luo', 'liza wilson durant', 'martha bushong', 'md tanvir arafin', 'omoche agada', 'ray hong', 'sharon adamus', 'steven schorling', 'yue cheng'] AS names
+MATCH (p:person)-[r]-(d:document)
+WHERE p.Name IN names
+DELETE p,r,d
+
+#Add 98 person nodes
+
+LOAD CSV WITH HEADERS from 'file:///loadable_profiles_final_all_delta.csv' as row with row where row.Name is not null
+MERGE (n:person {Name: row.Name})
+SET n.ID = row.ID
+SET n.title = row.Title
+SET n.personal_link = row.`Personal Link`
+SET n.email = row.Email
+SET n.phone = row.`Phone Number`
+SET n.degrees = row.Degrees
+
+#Add google Docs corresponding to 98scholars
+
+LOAD CSV WITH HEADERS from 'file:///loadable_GS_Doc_delta.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (d:document {ID: row.Doc_ID})
+SET d.Name = row.titles
+SET d.description = row.descriptions
+SET d.date = row.date
+SET d.citations = row.citations
+SET d.type = row.Location
+MERGE (n) - [:author_of]->(d)
+
+#Add Linkedin about sections
+
+LOAD CSV WITH HEADERS from 'file:///loadable_L_about_delta.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (d:document {ID: row.Doc_ID})
+SET d.Name = row.loc
+SET d.description = row.descriptions
+SET d.type = row.Location
+MERGE (n) - [:about_section]->(d)
+
+#Add Linkedin publications
+
+LOAD CSV WITH HEADERS from 'file:///loadable_L_Doc_delta.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (d:document {ID: row.Doc_ID})
+SET d.Name = row.titles
+SET d.description = row.descriptions
+SET d.date = row.date
+SET d.type = row.Location
+MERGE (n) - [:author_of]->(d)
+
+#Add the "possible_research_interest" relationship with area
+
+LOAD CSV WITH HEADERS from 'file:///loadable_cosine_scores_area_delta.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (area:area {Name: row.similar_area})
+MERGE (n) - [:possible_research_interest{score: toFloat(row.area_score)}]->(area)
+
+#Add the "possible_research_interest" relationship with category
+
+LOAD CSV WITH HEADERS from 'file:///loadable_cosine_scores_cat_delta.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (category:category {Name: row.similar_categories})
+MERGE (n) - [:possible_research_interest{score: toFloat(row.category_score)}]->(category)
